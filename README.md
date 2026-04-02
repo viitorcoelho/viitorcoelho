@@ -47,9 +47,3 @@ Se tiver dúvidas, oportunidades ou quiser trocar uma ideia sobre tecnologia, se
 
 ---
 
-## ⭐ GitHub Stats
-
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
-
