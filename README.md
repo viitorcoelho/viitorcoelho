@@ -1,4 +1,4 @@
-# 💜 Olá, meu nome é Vitor!
+# Olá, me chamo Vitor. 
 
 Busco desenvolver minha carreira na área de Tecnologia da Informação, com foco em **Cloud Computing e Infraestrutura**, atuando na criação, automação e gerenciamento de ambientes em nuvem.
 
